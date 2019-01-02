@@ -1,4 +1,5 @@
 ## Simplerepeat Sequence Annotation Tool for Sniffles  
+#### Version 1
 A simple simplerepeat sequence annotation tool for sniffles SV result.
 ### Usage
 >python3 simplerepeat_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
