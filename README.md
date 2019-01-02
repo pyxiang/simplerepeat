@@ -10,10 +10,10 @@ A simple simplerepeat sequence annotation tool for sniffles SV result.
 
 
 >optional arguments:   
-> `<`vcf`>`         &nbsp;sniffles vcf file  
+> `<`vcf`>`         &nbsp;sniffles vcf file including path
 > `<`outfile`>`     &nbsp;output filename including path  
 > `<`bp`>`          &nbsp;set the range of sequence  
-> `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer
+> `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer, including path
 
 ### Work Flow
 
