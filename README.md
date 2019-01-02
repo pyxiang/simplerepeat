@@ -21,7 +21,7 @@ A simple simplerepeat sequence annotation tool for sniffles SV result.
 
 2. If the range of the chromosome of sniffles result is overlapped by dataset, the result will be annotated   
 
-3. Output the annotated result 
+3. Output the annotated result, including sv id and dataset id
 
 
 ### Reference Dataset  
