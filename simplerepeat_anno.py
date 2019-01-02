@@ -126,7 +126,7 @@ def main():
                 a = Getvcfinfo(each_line2)
                 with open(outfile, 'a+') as f3:
                     if flag == 1:
-                        print('SVID', 'SRID', file = f3)
+                        print('SVID', 'DatasetID', file = f3)
                         flag = 0
                     datasetid1, datasetid3, region1, region3 = calRegion(t,a, each_line2,outfile, bp)
                     if region1 != '' :
