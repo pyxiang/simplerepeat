@@ -1,11 +1,11 @@
 ## Simplerepeat Sequence Annotation Tool for Sniffles  
-A simple gap sequence annotation tool for sniffles SV result.
+A simple simplerepeat sequence annotation tool for sniffles SV result.
 ### Usage
->python3 gap_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
+>python3 simplerepeat_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
 
->usage:gap_anno.py [options]  
+>usage:simplerepeat_anno.py [options]  
 
->gap sequence annotation for sniffles vcf
+>simplerepeat sequence annotation for sniffles vcf
 
 
 >optional arguments:   
